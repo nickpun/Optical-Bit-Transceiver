@@ -1,5 +1,5 @@
 # Optical-Bit-Transceiver
-*** Made for a school project. Worked locally, then uploaded to GitHub. This is why there are only 2 commits. ***
+*** Made for a school project. Worked locally, then uploaded to GitHub. This is why there are only 6 commits. ***
  Arduino controlled flashlight to send pulses of light encoded with messages, with a photodiode to receive the messages.
  Encoding messages consists of overlapping multiple frequencies of pulses.
  Decoding messages consists of Fourier Transforming the data to extract the frequencies.
